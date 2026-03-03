@@ -1,1 +1,1 @@
-# mlflow_deployment_on_EC2
+# package-algo-training
