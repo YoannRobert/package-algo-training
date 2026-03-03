@@ -1,4 +1,4 @@
-#name: appointment-cancellation-detector
+name: my-first-experiment-on-EC2
 docker_env:
   image: jedha/mlflow-project
   environment: [
